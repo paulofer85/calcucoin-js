@@ -1,6 +1,15 @@
-
-calcucoin-back/.env
-
-*.pem
-
+# package directories
 calcucoin-back/node_modules/
+node_modules
+jspm_packages
+
+# Serverless directories
+calcucoin-back/.env
+.serverless
+coverage
+.vscode
+.env
+.env.stage
+
+#server
+*.pem
