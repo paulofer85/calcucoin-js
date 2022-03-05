@@ -1,0 +1,1534 @@
+[
+  { "symbol": "BTC", "price_usd": 39096.947704965736, "name": "Bitcoin" },
+  { "symbol": "ETH", "price_usd": 2636.992709127942, "name": "Ethereum" },
+  { "symbol": "USDT", "price_usd": 1.000176436247814, "name": "Tether" },
+  { "symbol": "BNB", "price_usd": 376.8414767914826, "name": "BNB" },
+  { "symbol": "USDC", "price_usd": 1.0001861386950794, "name": "USD Coin" },
+  { "symbol": "XRP", "price_usd": 0.7245796331034255, "name": "XRP" },
+  { "symbol": "LUNA", "price_usd": 84.96531237842272, "name": "Terra" },
+  { "symbol": "ADA", "price_usd": 0.8513967595824651, "name": "Cardano" },
+  { "symbol": "SOL", "price_usd": 88.83436316638415, "name": "Solana" },
+  { "symbol": "AVAX", "price_usd": 76.52834370436547, "name": "Avalanche" },
+  { "symbol": "BUSD", "price_usd": 1.0003809170076265, "name": "Binance USD" },
+  { "symbol": "DOT", "price_usd": 16.840030500181328, "name": "Polkadot" },
+  { "symbol": "DOGE", "price_usd": 0.1232063645876043, "name": "Dogecoin" },
+  { "symbol": "UST", "price_usd": 1.0043650311542665, "name": "TerraUSD" },
+  { "symbol": "SHIB", "price_usd": 2.420249763442364e-5, "name": "Shiba Inu" },
+  { "symbol": "MATIC", "price_usd": 1.4975100947210045, "name": "Polygon" },
+  {
+    "symbol": "WBTC",
+    "price_usd": 39109.49432201998,
+    "name": "Wrapped Bitcoin"
+  },
+  { "symbol": "CRO", "price_usd": 0.4029736084898826, "name": "Cronos" },
+  { "symbol": "DAI", "price_usd": 1.000283062340399, "name": "Dai" },
+  { "symbol": "ATOM", "price_usd": 30.26696771666989, "name": "Cosmos" },
+  { "symbol": "LTC", "price_usd": 102.23695020242089, "name": "Litecoin" },
+  {
+    "symbol": "NEAR",
+    "price_usd": 10.724094023410013,
+    "name": "NEAR Protocol"
+  },
+  { "symbol": "LINK", "price_usd": 13.915502746426963, "name": "Chainlink" },
+  { "symbol": "UNI", "price_usd": 8.944919384672513, "name": "Uniswap" },
+  { "symbol": "TRX", "price_usd": 0.058499938882092976, "name": "TRON" },
+  { "symbol": "FTT", "price_usd": 40.4878064132511, "name": "FTX Token" },
+  { "symbol": "BCH", "price_usd": 290.1547579903532, "name": "Bitcoin Cash" },
+  { "symbol": "LEO", "price_usd": 5.3475144176339615, "name": "UNUS SED LEO" },
+  { "symbol": "ALGO", "price_usd": 0.7677861116411303, "name": "Algorand" },
+  { "symbol": "MANA", "price_usd": 2.531340022192467, "name": "Decentraland" },
+  { "symbol": "XLM", "price_usd": 0.1760962854354309, "name": "Stellar" },
+  { "symbol": "FTM", "price_usd": 1.6675615454369321, "name": "Fantom" },
+  { "symbol": "BTCB", "price_usd": 39075.25825329222, "name": "Bitcoin BEP2" },
+  { "symbol": "HBAR", "price_usd": 0.20823686207784534, "name": "Hedera" },
+  {
+    "symbol": "ETC",
+    "price_usd": 27.39466891836174,
+    "name": "Ethereum Classic"
+  },
+  {
+    "symbol": "ICP",
+    "price_usd": 17.50499371392692,
+    "name": "Internet Computer"
+  },
+  { "symbol": "SAND", "price_usd": 2.9895104919046545, "name": "The Sandbox" },
+  { "symbol": "FIL", "price_usd": 18.971161507495026, "name": "Filecoin" },
+  { "symbol": "VET", "price_usd": 0.04960956507117815, "name": "VeChain" },
+  { "symbol": "AXS", "price_usd": 50.48233247196335, "name": "Axie Infinity" },
+  { "symbol": "KLAY", "price_usd": 1.1388322501148025, "name": "Klaytn" },
+  { "symbol": "EGLD", "price_usd": 136.1298776811202, "name": "Elrond" },
+  { "symbol": "XMR", "price_usd": 157.8695535099835, "name": "Monero" },
+  {
+    "symbol": "THETA",
+    "price_usd": 2.853227735112696,
+    "name": "Theta Network"
+  },
+  { "symbol": "XTZ", "price_usd": 3.086377285781104, "name": "Tezos" },
+  { "symbol": "HNT", "price_usd": 21.33062068281901, "name": "Helium" },
+  { "symbol": "MIOTA", "price_usd": 0.721459254313723, "name": "IOTA" },
+  { "symbol": "EOS", "price_usd": 2.012874520803595, "name": "EOS" },
+  { "symbol": "FLOW", "price_usd": 5.9193335480806955, "name": "Flow" },
+  { "symbol": "WAVES", "price_usd": 17.843007838360933, "name": "Waves" },
+  { "symbol": "MKR", "price_usd": 1800.8595192850923, "name": "Maker" },
+  { "symbol": "AAVE", "price_usd": 125.4233979863643, "name": "Aave" },
+  {
+    "symbol": "BTT",
+    "price_usd": 1.8443469671925256e-6,
+    "name": "BitTorrent (New)"
+  },
+  { "symbol": "ONE", "price_usd": 0.14186986628923665, "name": "Harmony" },
+  { "symbol": "RUNE", "price_usd": 5.053398052654433, "name": "THORChain" },
+  { "symbol": "CAKE", "price_usd": 6.065287088335443, "name": "PancakeSwap" },
+  { "symbol": "GRT", "price_usd": 0.33972474471808917, "name": "The Graph" },
+  { "symbol": "ZEC", "price_usd": 114.62867485724857, "name": "Zcash" },
+  { "symbol": "GALA", "price_usd": 0.2248914896245701, "name": "Gala" },
+  { "symbol": "BSV", "price_usd": 79.93112471626961, "name": "Bitcoin SV" },
+  { "symbol": "NEO", "price_usd": 21.451147101893756, "name": "Neo" },
+  { "symbol": "QNT", "price_usd": 122.28468666360136, "name": "Quant" },
+  { "symbol": "KCS", "price_usd": 18.27664479342979, "name": "KuCoin Token" },
+  { "symbol": "STX", "price_usd": 1.1239152886937744, "name": "Stacks" },
+  { "symbol": "TUSD", "price_usd": 1.0005835196740458, "name": "TrueUSD" },
+  { "symbol": "HT", "price_usd": 9.206122220002408, "name": "Huobi Token" },
+  {
+    "symbol": "ANC",
+    "price_usd": 5.289456257733782,
+    "name": "Anchor Protocol"
+  },
+  { "symbol": "XEC", "price_usd": 7.177746677714215e-5, "name": "eCash" },
+  { "symbol": "CHZ", "price_usd": 0.20366072332125346, "name": "Chiliz" },
+  { "symbol": "ENJ", "price_usd": 1.4012580606226614, "name": "Enjin Coin" },
+  { "symbol": "CELO", "price_usd": 2.767682344494682, "name": "Celo" },
+  { "symbol": "AMP", "price_usd": 0.027154354436997978, "name": "Amp" },
+  { "symbol": "KDA", "price_usd": 6.503465525932839, "name": "Kadena" },
+  { "symbol": "NEXO", "price_usd": 1.9585310097172772, "name": "Nexo" },
+  { "symbol": "OKB", "price_usd": 18.066447656117536, "name": "OKB" },
+  {
+    "symbol": "CRV",
+    "price_usd": 2.2483093234920215,
+    "name": "Curve DAO Token"
+  },
+  { "symbol": "KSM", "price_usd": 119.92186342483124, "name": "Kusama" },
+  {
+    "symbol": "BAT",
+    "price_usd": 0.6639881789513847,
+    "name": "Basic Attention Token"
+  },
+  { "symbol": "LRC", "price_usd": 0.7433706088016677, "name": "Loopring" },
+  { "symbol": "AR", "price_usd": 28.986918670303442, "name": "Arweave" },
+  { "symbol": "USDP", "price_usd": 1.002754734427483, "name": "Pax Dollar" },
+  { "symbol": "DASH", "price_usd": 89.14771647980162, "name": "Dash" },
+  { "symbol": "CVX", "price_usd": 17.12475961187839, "name": "Convex Finance" },
+  { "symbol": "XEM", "price_usd": 0.09617194874958362, "name": "NEM" },
+  {
+    "symbol": "ROSE",
+    "price_usd": 0.23870010738830527,
+    "name": "Oasis Network"
+  },
+  { "symbol": "TFUEL", "price_usd": 0.15550980467364856, "name": "Theta Fuel" },
+  { "symbol": "MINA", "price_usd": 2.022678393002745, "name": "Mina" },
+  { "symbol": "XYM", "price_usd": 0.13915528279487188, "name": "Symbol" },
+  { "symbol": "BORA", "price_usd": 0.8958279292139381, "name": "BORA" },
+  { "symbol": "DCR", "price_usd": 55.80450193628891, "name": "Decred" },
+  { "symbol": "SCRT", "price_usd": 4.545881543378886, "name": "Secret" },
+  { "symbol": "YFI", "price_usd": 19757.129528728783, "name": "yearn.finance" },
+  { "symbol": "CEL", "price_usd": 3.0222552942894034, "name": "Celsius" },
+  { "symbol": "HOT", "price_usd": 0.00415823206606882, "name": "Holo" },
+  { "symbol": "COMP", "price_usd": 108.09020928893125, "name": "Compound" },
+  { "symbol": "IOTX", "price_usd": 0.07220966566027036, "name": "IoTeX" },
+  { "symbol": "SXP", "price_usd": 1.3720795041281906, "name": "SXP" },
+  { "symbol": "UMA", "price_usd": 9.78055767491259, "name": "UMA" },
+  { "symbol": "XDC", "price_usd": 0.05022483607792531, "name": "XDC Network" },
+  { "symbol": "QTUM", "price_usd": 5.942253732146873, "name": "Qtum" },
+  { "symbol": "GLMR", "price_usd": 3.174434779342957, "name": "Moonbeam" },
+  { "symbol": "GNO", "price_usd": 309.6241230103906, "name": "Gnosis" },
+  { "symbol": "BNT", "price_usd": 2.216298531912341, "name": "Bancor" },
+  { "symbol": "RENBTC", "price_usd": 39105.2027752471, "name": "renBTC" },
+  {
+    "symbol": "1INCH",
+    "price_usd": 1.3468429287032946,
+    "name": "1inch Network"
+  },
+  { "symbol": "WAXP", "price_usd": 0.2850982166701774, "name": "WAX" },
+  { "symbol": "RNDR", "price_usd": 2.5968911425853896, "name": "Render Token" },
+  { "symbol": "OMG", "price_usd": 3.953889743709898, "name": "OMG Network" },
+  { "symbol": "RVN", "price_usd": 0.05267396839541236, "name": "Ravencoin" },
+  { "symbol": "PAXG", "price_usd": 1973.06160436031, "name": "PAX Gold" },
+  { "symbol": "ANKR", "price_usd": 0.06603175897289283, "name": "Ankr" },
+  { "symbol": "BTG", "price_usd": 29.776846642935272, "name": "Bitcoin Gold" },
+  { "symbol": "GT", "price_usd": 6.652481615873405, "name": "GateToken" },
+  { "symbol": "USDN", "price_usd": 0.989095315420407, "name": "Neutrino USD" },
+  { "symbol": "VLX", "price_usd": 0.2250460117980875, "name": "Velas" },
+  { "symbol": "RLY", "price_usd": 0.2020917521041551, "name": "Rally" },
+  { "symbol": "GLM", "price_usd": 0.5034652195823908, "name": "Golem" },
+  { "symbol": "KAVA", "price_usd": 3.1656350169019323, "name": "Kava" },
+  { "symbol": "LPT", "price_usd": 23.269874544073932, "name": "Livepeer" },
+  { "symbol": "KEEP", "price_usd": 0.7539782374087338, "name": "Keep Network" },
+  { "symbol": "ZIL", "price_usd": 0.03900968417363289, "name": "Zilliqa" },
+  { "symbol": "CHSB", "price_usd": 0.48385099879753674, "name": "SwissBorg" },
+  { "symbol": "ICX", "price_usd": 0.6282326874503797, "name": "ICON" },
+  { "symbol": "VGX", "price_usd": 1.6519278545447877, "name": "Voyager Token" },
+  { "symbol": "ONT", "price_usd": 0.5239216815420145, "name": "Ontology" },
+  { "symbol": "AUDIO", "price_usd": 0.7381262317476476, "name": "Audius" },
+  { "symbol": "NFT", "price_usd": 1.6263270693523336e-6, "name": "APENFT" },
+  { "symbol": "WOO", "price_usd": 0.45829595596188033, "name": "WOO Network" },
+  {
+    "symbol": "KNC",
+    "price_usd": 2.4167871451526746,
+    "name": "Kyber Network Crystal v2"
+  },
+  { "symbol": "SC", "price_usd": 0.008509186011947638, "name": "Siacoin" },
+  { "symbol": "FEI", "price_usd": 0.9989892092145316, "name": "Fei USD" },
+  { "symbol": "ZRX", "price_usd": 0.4975496485830465, "name": "0x" },
+  {
+    "symbol": "ELON",
+    "price_usd": 7.605096857896622e-7,
+    "name": "Dogelon Mars"
+  },
+  { "symbol": "SNX", "price_usd": 3.6407367441151264, "name": "Synthetix" },
+  { "symbol": "IOST", "price_usd": 0.0229146741524874, "name": "IOST" },
+  { "symbol": "ZEN", "price_usd": 33.86212053885477, "name": "Horizen" },
+  { "symbol": "REV", "price_usd": 0.004787379689529018, "name": "Revain" },
+  { "symbol": "SUSHI", "price_usd": 3.071428504748141, "name": "SushiSwap" },
+  {
+    "symbol": "SKL",
+    "price_usd": 0.11586924055582709,
+    "name": "SKALE Network"
+  },
+  { "symbol": "REN", "price_usd": 0.3718032198055101, "name": "Ren" },
+  { "symbol": "NU", "price_usd": 0.5260585801228974, "name": "NuCypher" },
+  { "symbol": "POLY", "price_usd": 0.4094724362140006, "name": "Polymath" },
+  { "symbol": "STORJ", "price_usd": 0.9486731122409836, "name": "Storj" },
+  { "symbol": "UOS", "price_usd": 1.2777936773765306, "name": "Ultra" },
+  { "symbol": "HIVE", "price_usd": 0.9017734899989157, "name": "Hive" },
+  { "symbol": "FXS", "price_usd": 21.93655332679223, "name": "Frax Share" },
+  { "symbol": "SYS", "price_usd": 0.5605640502803313, "name": "Syscoin" },
+  {
+    "symbol": "SPELL",
+    "price_usd": 0.004072442949795387,
+    "name": "Spell Token"
+  },
+  { "symbol": "JST", "price_usd": 0.04639925537699337, "name": "JUST" },
+  { "symbol": "ILV", "price_usd": 526.770566623796, "name": "Illuvium" },
+  { "symbol": "DYDX", "price_usd": 5.1083460524486055, "name": "dYdX" },
+  {
+    "symbol": "CKB",
+    "price_usd": 0.011133204396227463,
+    "name": "Nervos Network"
+  },
+  { "symbol": "TEL", "price_usd": 0.005563642804016968, "name": "Telcoin" },
+  { "symbol": "BTRST", "price_usd": 3.636596697074131, "name": "Braintrust" },
+  { "symbol": "FLUX", "price_usd": 1.3565594162431234, "name": "Flux" },
+  {
+    "symbol": "ENS",
+    "price_usd": 15.13475319357701,
+    "name": "Ethereum Name Service"
+  },
+  { "symbol": "IMX", "price_usd": 1.2790188469073944, "name": "Immutable X" },
+  {
+    "symbol": "PERP",
+    "price_usd": 4.027594505033192,
+    "name": "Perpetual Protocol"
+  },
+  { "symbol": "CSPR", "price_usd": 0.07097338949553827, "name": "Casper" },
+  {
+    "symbol": "PEOPLE",
+    "price_usd": 0.05646439335128627,
+    "name": "ConstitutionDAO"
+  },
+  { "symbol": "XPRT", "price_usd": 3.4928138222804344, "name": "Persistence" },
+  { "symbol": "DGB", "price_usd": 0.018746964141183268, "name": "DigiByte" },
+  { "symbol": "WIN", "price_usd": 0.0002896460736150915, "name": "WINkLink" },
+  { "symbol": "INJ", "price_usd": 5.618904772893957, "name": "Injective" },
+  {
+    "symbol": "OCEAN",
+    "price_usd": 0.43661922541882636,
+    "name": "Ocean Protocol"
+  },
+  { "symbol": "XDB", "price_usd": 0.30415826722286227, "name": "DigitalBits" },
+  { "symbol": "SUPER", "price_usd": 0.6533475421469958, "name": "SuperFarm" },
+  {
+    "symbol": "TWT",
+    "price_usd": 0.7515818260967758,
+    "name": "Trust Wallet Token"
+  },
+  { "symbol": "TRIBE", "price_usd": 0.5721966297104502, "name": "Tribe" },
+  {
+    "symbol": "CELR",
+    "price_usd": 0.03918933021291225,
+    "name": "Celer Network"
+  },
+  { "symbol": "POWR", "price_usd": 0.5232571439186955, "name": "Powerledger" },
+  {
+    "symbol": "GUSD",
+    "price_usd": 0.9986428687181899,
+    "name": "Gemini Dollar"
+  },
+  { "symbol": "PLA", "price_usd": 0.8341732472176907, "name": "PlayDapp" },
+  { "symbol": "C98", "price_usd": 1.325321066240907, "name": "Coin98" },
+  { "symbol": "SRM", "price_usd": 1.8373536348933261, "name": "Serum" },
+  { "symbol": "XCH", "price_usd": 73.64526119302828, "name": "Chia" },
+  { "symbol": "LSK", "price_usd": 1.8844684408932624, "name": "Lisk" },
+  { "symbol": "XNO", "price_usd": 1.7799664987303303, "name": "Nano" },
+  { "symbol": "WRX", "price_usd": 0.620084070797148, "name": "WazirX" },
+  { "symbol": "FET", "price_usd": 0.31421982308308266, "name": "Fetch.ai" },
+  { "symbol": "API3", "price_usd": 6.342416104272221, "name": "API3" },
+  { "symbol": "DENT", "price_usd": 0.00235452045038931, "name": "Dent" },
+  {
+    "symbol": "YGG",
+    "price_usd": 2.710259173359792,
+    "name": "Yield Guild Games"
+  },
+  {
+    "symbol": "PYR",
+    "price_usd": 9.68355851361137,
+    "name": "Vulcan Forged PYR"
+  },
+  { "symbol": "CEEK", "price_usd": 0.3049549270982722, "name": "CEEK VR" },
+  { "symbol": "COTI", "price_usd": 0.21477356680692017, "name": "COTI" },
+  { "symbol": "XYO", "price_usd": 0.01738873225549587, "name": "XYO" },
+  { "symbol": "RAY", "price_usd": 2.5148052481384564, "name": "Raydium" },
+  { "symbol": "CHR", "price_usd": 0.3811731572352616, "name": "Chromia" },
+  { "symbol": "MXC", "price_usd": 0.08024873095041728, "name": "MXC" },
+  {
+    "symbol": "ALICE",
+    "price_usd": 6.825596687913144,
+    "name": "MyNeighborAlice"
+  },
+  { "symbol": "REQ", "price_usd": 0.2073980035048011, "name": "Request" },
+  { "symbol": "MED", "price_usd": 0.03824693932605047, "name": "MediBloc" },
+  { "symbol": "FX", "price_usd": 0.5038925580549214, "name": "Function X" },
+  { "symbol": "ONG", "price_usd": 0.7214737643235439, "name": "Ontology Gas" },
+  { "symbol": "DIVI", "price_usd": 0.07109186398508903, "name": "Divi" },
+  { "symbol": "ORBS", "price_usd": 0.06720938457626398, "name": "Orbs" },
+  { "symbol": "BOBA", "price_usd": 1.2151224723323188, "name": "Boba Network" },
+  { "symbol": "MOVR", "price_usd": 58.7247576989131, "name": "Moonriver" },
+  {
+    "symbol": "RGT",
+    "price_usd": 15.697137713480936,
+    "name": "Rari Governance Token"
+  },
+  { "symbol": "HEX", "price_usd": 0.11005059949719556, "name": "HEX" },
+  { "symbol": "STETH", "price_usd": 2626.586876563978, "name": "Lido stETH" },
+  { "symbol": "FRAX", "price_usd": 0.9990312000112551, "name": "Frax" },
+  { "symbol": "OSMO", "price_usd": 10.09073829432095, "name": "Osmosis" },
+  { "symbol": "TON", "price_usd": 1.8227689621087002, "name": "Toncoin" },
+  {
+    "symbol": "BTTOLD",
+    "price_usd": 0.0018015448583654497,
+    "name": "BitTorrent"
+  },
+  { "symbol": "WBNB", "price_usd": 376.8288898187839, "name": "Wrapped BNB" },
+  { "symbol": "HBTC", "price_usd": 39095.23906363731, "name": "Huobi BTC" },
+  { "symbol": "YOUC", "price_usd": 0.1388857984548302, "name": "yOUcash" },
+  { "symbol": "CBG", "price_usd": 32.613018683676465, "name": "Chainbing" },
+  { "symbol": "DFI", "price_usd": 3.4105059254284282, "name": "DeFiChain" },
+  { "symbol": "LUSD", "price_usd": 1.008370667993478, "name": "Liquity USD" },
+  { "symbol": "LN", "price_usd": 119.94200242006971, "name": "LINK" },
+  { "symbol": "vBNB", "price_usd": 8.142541915135673, "name": "Venus BNB" },
+  { "symbol": "OMI", "price_usd": 0.004016554088311418, "name": "ECOMI" },
+  { "symbol": "BIT", "price_usd": 1.136594935553927, "name": "BitDAO" },
+  { "symbol": "KOK", "price_usd": 5.979852943293331, "name": "KOK" },
+  { "symbol": "CCXX", "price_usd": 35.072957788080245, "name": "Counos X" },
+  { "symbol": "WEMIX", "price_usd": 4.902082638775188, "name": "WEMIX" },
+  { "symbol": "NXM", "price_usd": 88.74955376384553, "name": "NXM" },
+  {
+    "symbol": "TTT",
+    "price_usd": 5.332171653965589,
+    "name": "The Transfer Token"
+  },
+  { "symbol": "XWC", "price_usd": 0.5554573364556475, "name": "WhiteCoin" },
+  { "symbol": "HUSD", "price_usd": 1.0007625099539397, "name": "HUSD" },
+  { "symbol": "METIS", "price_usd": 124.62170904256743, "name": "MetisDAO" },
+  { "symbol": "MOB", "price_usd": 4.52716453622111, "name": "MobileCoin" },
+  { "symbol": "SAPP", "price_usd": 0.5617190556029238, "name": "Sapphire" },
+  { "symbol": "RACA", "price_usd": 0.001512426106984047, "name": "Radio Caca" },
+  {
+    "symbol": "SAFEMOON",
+    "price_usd": 4.975170745361933e-7,
+    "name": "SafeMoon"
+  },
+  { "symbol": "HERO", "price_usd": 0.056041243089491065, "name": "Metahero" },
+  {
+    "symbol": "BEST",
+    "price_usd": 0.8027590541255164,
+    "name": "Bitpanda Ecosystem Token"
+  },
+  {
+    "symbol": "DESO",
+    "price_usd": 31.388684705070798,
+    "name": "Decentralized Social"
+  },
+  { "symbol": "ANY", "price_usd": 14.105637910341697, "name": "Anyswap" },
+  { "symbol": "TLOS", "price_usd": 0.9668032909607043, "name": "Telos" },
+  { "symbol": "SAFE", "price_usd": 12.142532797803511, "name": "Safe" },
+  { "symbol": "RPL", "price_usd": 23.855749339916116, "name": "Rocket Pool" },
+  { "symbol": "LDO", "price_usd": 2.174441999566951, "name": "Lido DAO Token" },
+  { "symbol": "UFO", "price_usd": 8.376228051836574e-6, "name": "UFO Gaming" },
+  { "symbol": "XAUT", "price_usd": 1971.4320346016732, "name": "Tether Gold" },
+  { "symbol": "ARRR", "price_usd": 1.0894378447025348, "name": "Pirate Chain" },
+  { "symbol": "LYXe", "price_usd": 13.249249422209894, "name": "LUKSO" },
+  { "symbol": "XSGD", "price_usd": 0.732876061458015, "name": "XSGD" },
+  {
+    "symbol": "BTCST",
+    "price_usd": 16.710914933481707,
+    "name": "Bitcoin Standard Hashrate Token"
+  },
+  { "symbol": "JOE", "price_usd": 1.0631882490071278, "name": "JOE" },
+  { "symbol": "ANT", "price_usd": 4.788385141966236, "name": "Aragon" },
+  { "symbol": "EVER", "price_usd": 0.20611133970513415, "name": "Everscale" },
+  { "symbol": "SOS", "price_usd": 1.8889312655231524e-6, "name": "OpenDAO" },
+  {
+    "symbol": "PUNDIX",
+    "price_usd": 0.7265405099496728,
+    "name": "Pundi X (New)"
+  },
+  { "symbol": "MVL", "price_usd": 0.0082996596642831, "name": "MVL" },
+  { "symbol": "ARDR", "price_usd": 0.1865255779028735, "name": "Ardor" },
+  { "symbol": "SNT", "price_usd": 0.05359326353204941, "name": "Status" },
+  { "symbol": "CTSI", "price_usd": 0.35587679246243265, "name": "Cartesi" },
+  { "symbol": "MDX", "price_usd": 0.21200993503671606, "name": "Mdex" },
+  { "symbol": "MX", "price_usd": 1.8247893570368305, "name": "MX TOKEN" },
+  { "symbol": "AURORA", "price_usd": 8.022985770640108, "name": "Aurora" },
+  { "symbol": "ACH", "price_usd": 0.0441336201833621, "name": "Alchemy Pay" },
+  { "symbol": "ELF", "price_usd": 0.33171773440962793, "name": "aelf" },
+  { "symbol": "CVC", "price_usd": 0.2632352500002166, "name": "Civic" },
+  { "symbol": "MBOX", "price_usd": 2.1995488570611177, "name": "MOBOX" },
+  { "symbol": "CFX", "price_usd": 0.12221647611480278, "name": "Conflux" },
+  { "symbol": "NMR", "price_usd": 28.850035395441548, "name": "Numeraire" },
+  {
+    "symbol": "BFC",
+    "price_usd": 0.15182747650995626,
+    "name": "Bifrost (BFC)"
+  },
+  { "symbol": "ORC", "price_usd": 0.28569290307336964, "name": "Orbit Chain" },
+  {
+    "symbol": "BETA",
+    "price_usd": 0.46376453995041955,
+    "name": "Beta Finance"
+  },
+  { "symbol": "TRAC", "price_usd": 0.4500481164015725, "name": "OriginTrail" },
+  { "symbol": "ASTR", "price_usd": 0.10275393004018793, "name": "Astar" },
+  { "symbol": "OXT", "price_usd": 0.2363899873739915, "name": "Orchid" },
+  { "symbol": "REEF", "price_usd": 0.008911800379094474, "name": "Reef" },
+  { "symbol": "STARL", "price_usd": 1.6226414036846115e-5, "name": "Starlink" },
+  { "symbol": "HUM", "price_usd": 0.22758656693575482, "name": "Humanscape" },
+  {
+    "symbol": "DAG",
+    "price_usd": 0.12747663990600444,
+    "name": "Constellation"
+  },
+  {
+    "symbol": "RSR",
+    "price_usd": 0.012078914363345237,
+    "name": "Reserve Rights"
+  },
+  { "symbol": "MNGO", "price_usd": 0.15798739577023643, "name": "Mango" },
+  {
+    "symbol": "OUSD",
+    "price_usd": 0.9941373528556152,
+    "name": "Origin Dollar"
+  },
+  { "symbol": "XVG", "price_usd": 0.00951759450081551, "name": "Verge" },
+  { "symbol": "BICO", "price_usd": 1.3615792059550058, "name": "Biconomy" },
+  { "symbol": "HEDG", "price_usd": 0.4445330706125353, "name": "HedgeTrade" },
+  {
+    "symbol": "SURE",
+    "price_usd": 0.0057692743377170605,
+    "name": "inSure DeFi"
+  },
+  {
+    "symbol": "DVI",
+    "price_usd": 0.48437069540488825,
+    "name": "Dvision Network"
+  },
+  { "symbol": "REP", "price_usd": 13.868515880236325, "name": "Augur" },
+  { "symbol": "DAO", "price_usd": 2.178796647076112, "name": "DAO Maker" },
+  {
+    "symbol": "VTHO",
+    "price_usd": 0.003286478577563189,
+    "name": "VeThor Token"
+  },
+  {
+    "symbol": "EWT",
+    "price_usd": 4.977959689543622,
+    "name": "Energy Web Token"
+  },
+  { "symbol": "ALT", "price_usd": 2.470104860348965, "name": "Alitas" },
+  { "symbol": "DEP", "price_usd": 0.0349118514575109, "name": "DEAPcoin" },
+  {
+    "symbol": "MWC",
+    "price_usd": 13.274168561157124,
+    "name": "MimbleWimbleCoin"
+  },
+  { "symbol": "RMRK", "price_usd": 15.114557332945413, "name": "RMRK" },
+  { "symbol": "ASD", "price_usd": 0.21716594214792753, "name": "ASD" },
+  { "symbol": "USDX", "price_usd": 0.9761722017778663, "name": "USDX [Kava]" },
+  { "symbol": "AVINOC", "price_usd": 0.3630188186151389, "name": "AVINOC" },
+  { "symbol": "RLC", "price_usd": 1.7485829132742599, "name": "iExec RLC" },
+  { "symbol": "STMX", "price_usd": 0.013975312713933449, "name": "StormX" },
+  { "symbol": "MAID", "price_usd": 0.3087874225138367, "name": "MaidSafeCoin" },
+  { "symbol": "BLOK", "price_usd": 0.01673274643338798, "name": "Bloktopia" },
+  {
+    "symbol": "DG",
+    "price_usd": 0.33436656548823496,
+    "name": "Decentral Games"
+  },
+  { "symbol": "RAD", "price_usd": 5.101702691517712, "name": "Radicle" },
+  {
+    "symbol": "BAND",
+    "price_usd": 3.8681102157694607,
+    "name": "Band Protocol"
+  },
+  { "symbol": "EURS", "price_usd": 1.0923488647173571, "name": "STASIS EURO" },
+  {
+    "symbol": "ALPHA",
+    "price_usd": 0.3029963862178307,
+    "name": "Alpha Finance Lab"
+  },
+  { "symbol": "DVF", "price_usd": 5.58730242151872, "name": "DeversiFi" },
+  {
+    "symbol": "DUSK",
+    "price_usd": 0.34622614662623263,
+    "name": "Dusk Network"
+  },
+  { "symbol": "ALCX", "price_usd": 115.39708947099986, "name": "Alchemix" },
+  { "symbol": "DERO", "price_usd": 11.903851162173057, "name": "Dero" },
+  { "symbol": "HXRO", "price_usd": 0.32454500185250007, "name": "Hxro" },
+  { "symbol": "PROM", "price_usd": 8.029704913562915, "name": "Prometeus" },
+  { "symbol": "NKN", "price_usd": 0.18840684810491987, "name": "NKN" },
+  { "symbol": "AKT", "price_usd": 1.147948427649104, "name": "Akash Network" },
+  { "symbol": "BIFI", "price_usd": 1801.65428739906, "name": "Beefy Finance" },
+  { "symbol": "SFUND", "price_usd": 5.273161135715926, "name": "Seedify.fund" },
+  {
+    "symbol": "STPT",
+    "price_usd": 0.08888525648909011,
+    "name": "Standard Tokenization Protocol"
+  },
+  { "symbol": "GXC", "price_usd": 1.7021223599480744, "name": "GXChain" },
+  { "symbol": "SPA", "price_usd": 0.17297401062765588, "name": "Sperax" },
+  { "symbol": "PRO", "price_usd": 1.7138014115264566, "name": "Propy" },
+  { "symbol": "LAT", "price_usd": 0.05261490836697017, "name": "PlatON" },
+  {
+    "symbol": "ORN",
+    "price_usd": 3.0475092300679028,
+    "name": "Orion Protocol"
+  },
+  { "symbol": "WILD", "price_usd": 1.4975254170448098, "name": "Wilder World" },
+  { "symbol": "STRAX", "price_usd": 0.9250096450917817, "name": "Stratis" },
+  { "symbol": "SSV", "price_usd": 12.404893090716833, "name": "ssv.network" },
+  { "symbol": "THG", "price_usd": 1.0902195086943527, "name": "Thetan Arena" },
+  { "symbol": "META", "price_usd": 0.07313783025542751, "name": "Metadium" },
+  { "symbol": "YOOSHI", "price_usd": 3.2853341416252237e-7, "name": "YooShi" },
+  { "symbol": "SOUL", "price_usd": 1.1787022103332208, "name": "Phantasma" },
+  { "symbol": "VERI", "price_usd": 56.99783155199255, "name": "Veritaseum" },
+  {
+    "symbol": "DAWN",
+    "price_usd": 1.6822201999139945,
+    "name": "Dawn Protocol"
+  },
+  { "symbol": "STEEM", "price_usd": 0.30713691028515894, "name": "Steem" },
+  { "symbol": "SUN", "price_usd": 0.011533360482224374, "name": "Sun (New)" },
+  { "symbol": "C20", "price_usd": 3.031669183915829, "name": "CRYPTO20" },
+  {
+    "symbol": "RIF",
+    "price_usd": 0.145887165464249,
+    "name": "RSK Infrastructure Framework"
+  },
+  { "symbol": "STRK", "price_usd": 38.64505606411944, "name": "Strike" },
+  { "symbol": "HTR", "price_usd": 0.5260949808971198, "name": "Hathor" },
+  { "symbol": "QRDO", "price_usd": 2.4100420549244896, "name": "Qredo" },
+  { "symbol": "MASK", "price_usd": 4.033871615155507, "name": "Mask Network" },
+  { "symbol": "GHST", "price_usd": 1.9290875154628002, "name": "Aavegotchi" },
+  { "symbol": "ARK", "price_usd": 0.8614804457412883, "name": "Ark" },
+  { "symbol": "HOO", "price_usd": 1.4063070192662088, "name": "Hoo Token" },
+  { "symbol": "KP3R", "price_usd": 577.1174792537499, "name": "Keep3rV1" },
+  { "symbol": "TOMO", "price_usd": 1.2836097522445113, "name": "TomoChain" },
+  {
+    "symbol": "BCD",
+    "price_usd": 0.6146249739119646,
+    "name": "Bitcoin Diamond"
+  },
+  {
+    "symbol": "DPR",
+    "price_usd": 0.09109737338780696,
+    "name": "Deeper Network"
+  },
+  {
+    "symbol": "DG",
+    "price_usd": 325.3068883340218,
+    "name": "Decentral Games [Old]"
+  },
+  { "symbol": "CENNZ", "price_usd": 0.0936826973048135, "name": "CENNZnet" },
+  { "symbol": "ABBC", "price_usd": 0.11571923817440458, "name": "ABBC Coin" },
+  { "symbol": "HYN", "price_usd": 0.5444967712312916, "name": "Hyperion" },
+  { "symbol": "UBT", "price_usd": 0.7392459780148557, "name": "Unibright" },
+  { "symbol": "SSX", "price_usd": 0.041830472084059475, "name": "SOMESING" },
+  { "symbol": "DFA", "price_usd": 1.94259243989328, "name": "DeFine" },
+  { "symbol": "RKN", "price_usd": 0.44828876055175015, "name": "Rakon" },
+  { "symbol": "FUN", "price_usd": 0.009882659834621334, "name": "FUNToken" },
+  { "symbol": "vETH", "price_usd": 53.288796954818004, "name": "Venus ETH" },
+  { "symbol": "XPR", "price_usd": 0.011205428254146083, "name": "Proton" },
+  { "symbol": "WAN", "price_usd": 0.5612351268845213, "name": "Wanchain" },
+  { "symbol": "MLN", "price_usd": 51.641384804789375, "name": "Enzyme" },
+  { "symbol": "UTK", "price_usd": 0.23378494924984325, "name": "Utrust" },
+  { "symbol": "POLS", "price_usd": 1.2169819123388546, "name": "Polkastarter" },
+  {
+    "symbol": "SNL",
+    "price_usd": 0.15805884920576382,
+    "name": "Sport and Leisure"
+  },
+  { "symbol": "TIME", "price_usd": 150.49714049941522, "name": "Chrono.tech" },
+  {
+    "symbol": "OGN",
+    "price_usd": 0.2745723130008741,
+    "name": "Origin Protocol"
+  },
+  { "symbol": "XVS", "price_usd": 8.765244781374737, "name": "Venus" },
+  { "symbol": "MPL", "price_usd": 23.57834782644248, "name": "Maple" },
+  { "symbol": "1ECO", "price_usd": 3.9335908118674676, "name": "1eco" },
+  { "symbol": "BAKE", "price_usd": 0.5341392848857066, "name": "BakeryToken" },
+  { "symbol": "VR", "price_usd": 0.14444019822488785, "name": "Victoria VR" },
+  { "symbol": "vUSDC", "price_usd": 0.02136652639718057, "name": "Venus USDC" },
+  { "symbol": "KAI", "price_usd": 0.030307840256828367, "name": "KardiaChain" },
+  { "symbol": "EXRD", "price_usd": 0.13753012264101877, "name": "e-Radix" },
+  {
+    "symbol": "BZRX",
+    "price_usd": 0.24238348212467542,
+    "name": "bZx Protocol"
+  },
+  {
+    "symbol": "WNCG",
+    "price_usd": 0.8341417156604525,
+    "name": "Wrapped NCG (Nine Chronicles Gold)"
+  },
+  { "symbol": "ERG", "price_usd": 3.0956974219398883, "name": "Ergo" },
+  { "symbol": "EPS", "price_usd": 0.1621875641895468, "name": "Ellipsis" },
+  { "symbol": "ETN", "price_usd": 0.005506119641447877, "name": "Electroneum" },
+  { "symbol": "QKC", "price_usd": 0.015326446221873203, "name": "QuarkChain" },
+  {
+    "symbol": "SLP",
+    "price_usd": 0.019090445488332622,
+    "name": "Smooth Love Potion"
+  },
+  { "symbol": "BADGER", "price_usd": 7.782824751555289, "name": "Badger DAO" },
+  { "symbol": "CFG", "price_usd": 0.4879907668801756, "name": "Centrifuge" },
+  { "symbol": "TRU", "price_usd": 0.1767043361574582, "name": "TrueFi" },
+  { "symbol": "IDEX", "price_usd": 0.15199350634323752, "name": "IDEX" },
+  { "symbol": "PEAK", "price_usd": 0.07345657783457661, "name": "PEAKDEFI" },
+  { "symbol": "MTL", "price_usd": 1.428670545392984, "name": "Metal" },
+  {
+    "symbol": "DAR",
+    "price_usd": 0.7661404359914301,
+    "name": "Mines of Dalarnia"
+  },
+  {
+    "symbol": "RBTC",
+    "price_usd": 39183.84757336025,
+    "name": "RSK Smart Bitcoin"
+  },
+  { "symbol": "DKA", "price_usd": 0.09006154413941465, "name": "dKargo" },
+  { "symbol": "TLM", "price_usd": 0.1002453300547177, "name": "Alien Worlds" },
+  {
+    "symbol": "MIR",
+    "price_usd": 1.1774533448012043,
+    "name": "Mirror Protocol"
+  },
+  { "symbol": "VRA", "price_usd": 0.02033998174383239, "name": "Verasity" },
+  { "symbol": "MC", "price_usd": 2.120267516693149, "name": "Merit Circle" },
+  { "symbol": "HUNT", "price_usd": 0.8042428218719135, "name": "HUNT" },
+  {
+    "symbol": "AGIX",
+    "price_usd": 0.09079449152685502,
+    "name": "SingularityNET"
+  },
+  { "symbol": "HNS", "price_usd": 0.18677700231332844, "name": "Handshake" },
+  { "symbol": "ARPA", "price_usd": 0.07008003329198641, "name": "ARPA Chain" },
+  {
+    "symbol": "CLV",
+    "price_usd": 0.3327793562117628,
+    "name": "Clover Finance"
+  },
+  {
+    "symbol": "XWG",
+    "price_usd": 0.06994665531043183,
+    "name": "X World Games"
+  },
+  { "symbol": "CUSD", "price_usd": 0.9932060392903932, "name": "Celo Dollar" },
+  { "symbol": "VOXEL", "price_usd": 1.4927522038062486, "name": "Voxies" },
+  { "symbol": "CQT", "price_usd": 0.3348875198300525, "name": "Covalent" },
+  { "symbol": "CRA", "price_usd": 1.0056805500707677, "name": "Crabada" },
+  {
+    "symbol": "FOX",
+    "price_usd": 0.30127206459701616,
+    "name": "Shapeshift FOX Token"
+  },
+  { "symbol": "STAKE", "price_usd": 10.069768472898042, "name": "STAKE" },
+  { "symbol": "SUSD", "price_usd": 1.0012897313037008, "name": "sUSD" },
+  { "symbol": "IQ", "price_usd": 0.008397715515010814, "name": "Everipedia" },
+  { "symbol": "FIDA", "price_usd": 1.8777377287000143, "name": "Bonfida" },
+  { "symbol": "GTC", "price_usd": 5.866323537943323, "name": "Gitcoin" },
+  {
+    "symbol": "DPI",
+    "price_usd": 148.24659461925182,
+    "name": "DeFi Pulse Index"
+  },
+  { "symbol": "ICHI", "price_usd": 19.36360622222585, "name": "ICHI" },
+  { "symbol": "ACA", "price_usd": 1.1605759636139283, "name": "Acala Token" },
+  { "symbol": "SOV", "price_usd": 3.8015044382167686, "name": "Sovryn" },
+  { "symbol": "VEGA", "price_usd": 6.378543130257981, "name": "Vega Protocol" },
+  { "symbol": "BAL", "price_usd": 11.460802945491011, "name": "Balancer" },
+  { "symbol": "CTK", "price_usd": 1.1275729796900602, "name": "CertiK" },
+  {
+    "symbol": "LOOM",
+    "price_usd": 0.07930133875595674,
+    "name": "Loom Network"
+  },
+  { "symbol": "MBL", "price_usd": 0.005844234250718213, "name": "MovieBloc" },
+  { "symbol": "AURY", "price_usd": 8.12554843449536, "name": "Aurory" },
+  {
+    "symbol": "RAI",
+    "price_usd": 3.0533335869624367,
+    "name": "Rai Reflex Index"
+  },
+  { "symbol": "PRE", "price_usd": 0.19418977922227357, "name": "Presearch" },
+  { "symbol": "AMPL", "price_usd": 0.9016818675997039, "name": "Ampleforth" },
+  { "symbol": "BOR", "price_usd": 523.8019820616554, "name": "BoringDAO" },
+  {
+    "symbol": "COVAL",
+    "price_usd": 0.042014281774437556,
+    "name": "Circuits of Value"
+  },
+  { "symbol": "YFII", "price_usd": 1937.3872995001118, "name": "DFI.Money" },
+  { "symbol": "erowan", "price_usd": 0.1068206561641459, "name": "SifChain" },
+  { "symbol": "SFP", "price_usd": 0.6846755417215035, "name": "SafePal" },
+  { "symbol": "KLV", "price_usd": 0.021796864576325226, "name": "Klever" },
+  { "symbol": "TKO", "price_usd": 0.6821196844619997, "name": "Toko Token" },
+  { "symbol": "ZB", "price_usd": 0.15780747609791285, "name": "ZB Token" },
+  { "symbol": "ELA", "price_usd": 3.588617531161239, "name": "Elastos" },
+  {
+    "symbol": "AGLD",
+    "price_usd": 1.0388900621773145,
+    "name": "Adventure Gold"
+  },
+  { "symbol": "IRIS", "price_usd": 0.058924076849524734, "name": "IRISnet" },
+  { "symbol": "TITAN", "price_usd": 1.3584496708713953, "name": "TitanSwap" },
+  {
+    "symbol": "VXV",
+    "price_usd": 1.8144016810286931,
+    "name": "Vectorspace AI"
+  },
+  { "symbol": "AERGO", "price_usd": 0.19894944180855179, "name": "Aergo" },
+  { "symbol": "DERC", "price_usd": 1.5392332542804499, "name": "DeRace" },
+  { "symbol": "KIN", "price_usd": 4.125856029290324e-5, "name": "Kin" },
+  {
+    "symbol": "TVK",
+    "price_usd": 0.1027582833932345,
+    "name": "Terra Virtua Kolect"
+  },
+  { "symbol": "SOLO", "price_usd": 0.356585748641917, "name": "Sologenic" },
+  { "symbol": "BSW", "price_usd": 0.3709203647748453, "name": "Biswap" },
+  {
+    "symbol": "CUBE",
+    "price_usd": 5.658813249761015,
+    "name": "Somnium Space Cubes"
+  },
+  { "symbol": "ZLW", "price_usd": 0.9726868447804274, "name": "Zelwin" },
+  { "symbol": "HYDRA", "price_usd": 8.126246796013826, "name": "Hydra" },
+  {
+    "symbol": "QUACK",
+    "price_usd": 1.573531643588759e-9,
+    "name": "RichQUACK.com"
+  },
+  { "symbol": "BNANA", "price_usd": 2.181077216889797, "name": "Chimpion" },
+  { "symbol": "NOIA", "price_usd": 0.12939635565405244, "name": "Syntropy" },
+  { "symbol": "BNX", "price_usd": 33.937685172917405, "name": "BinaryX" },
+  {
+    "symbol": "PCL",
+    "price_usd": 0.03217420314029795,
+    "name": "PECULIUM (old)"
+  },
+  {
+    "symbol": "CORE",
+    "price_usd": 6829.808072892494,
+    "name": "cVault.finance"
+  },
+  { "symbol": "CRTS", "price_usd": 0.0037251767130543237, "name": "Cratos" },
+  {
+    "symbol": "PHA",
+    "price_usd": 0.24774775730833726,
+    "name": "Phala Network"
+  },
+  { "symbol": "JASMY", "price_usd": 0.014162461308826873, "name": "JasmyCoin" },
+  {
+    "symbol": "BLCT",
+    "price_usd": 1.761808530133553,
+    "name": "Bloomzed Loyalty Club Ticket"
+  },
+  {
+    "symbol": "FORTH",
+    "price_usd": 6.218949932735035,
+    "name": "Ampleforth Governance Token"
+  },
+  { "symbol": "aEth", "price_usd": 2279.8677124477217, "name": "ankrETH" },
+  { "symbol": "NCT", "price_usd": 0.04321822623875861, "name": "PolySwarm" },
+  { "symbol": "BZZ", "price_usd": 1.3413662510556748, "name": "Swarm" },
+  { "symbol": "VRSC", "price_usd": 0.9874123552196363, "name": "VerusCoin" },
+  { "symbol": "AVA", "price_usd": 1.3084786717409502, "name": "Travala.com" },
+  { "symbol": "UQC", "price_usd": 6.601433793904337, "name": "Uquid Coin" },
+  { "symbol": "ADS", "price_usd": 2.747798535918215, "name": "Adshares" },
+  { "symbol": "TT", "price_usd": 0.007652709975705047, "name": "ThunderCore" },
+  {
+    "symbol": "AQT",
+    "price_usd": 2.526957010496179,
+    "name": "Alpha Quark Token"
+  },
+  { "symbol": "GF", "price_usd": 1.5575200545206638, "name": "GuildFi" },
+  { "symbol": "ROOK", "price_usd": 106.10517756455688, "name": "KeeperDAO" },
+  { "symbol": "LCX", "price_usd": 0.08599422040305414, "name": "LCX" },
+  { "symbol": "DIA", "price_usd": 0.9833916216519821, "name": "DIA" },
+  { "symbol": "XCAD", "price_usd": 2.664185866686205, "name": "XCAD Network" },
+  { "symbol": "ONUS", "price_usd": 0.6576160068329377, "name": "ONUS" },
+  { "symbol": "RFOX", "price_usd": 0.04907404034228939, "name": "RFOX" },
+  { "symbol": "MONA", "price_usd": 0.9788844778191411, "name": "MonaCoin" },
+  { "symbol": "RISE", "price_usd": 0.0010055492592024613, "name": "EverRise" },
+  { "symbol": "QC", "price_usd": 0.1395727114999731, "name": "Qcash" },
+  { "symbol": "EFI", "price_usd": 0.3736711361138773, "name": "Efinity Token" },
+  { "symbol": "SWAP", "price_usd": 0.6466855736765305, "name": "TrustSwap" },
+  {
+    "symbol": "VVS",
+    "price_usd": 2.7281216431706157e-5,
+    "name": "VVS Finance"
+  },
+  { "symbol": "MLK", "price_usd": 0.7977734585605735, "name": "MiL.k" },
+  { "symbol": "GTN", "price_usd": 0.25184521260506443, "name": "GlitzKoin" },
+  {
+    "symbol": "ATLAS",
+    "price_usd": 0.028816314176657983,
+    "name": "Star Atlas"
+  },
+  { "symbol": "REV", "price_usd": 0.09721180194178627, "name": "RChain" },
+  { "symbol": "KMD", "price_usd": 0.47568519696462, "name": "Komodo" },
+  { "symbol": "SAMO", "price_usd": 0.0189741882508856, "name": "Samoyedcoin" },
+  {
+    "symbol": "ATA",
+    "price_usd": 0.3587906814521437,
+    "name": "Automata Network"
+  },
+  { "symbol": "SWP", "price_usd": 1.804250158059901, "name": "Kava Swap" },
+  { "symbol": "MOC", "price_usd": 0.16599215235094, "name": "Moss Coin" },
+  {
+    "symbol": "BOSON",
+    "price_usd": 0.8335392014657553,
+    "name": "Boson Protocol"
+  },
+  { "symbol": "DAD", "price_usd": 0.13577390106971393, "name": "DAD" },
+  {
+    "symbol": "MFT",
+    "price_usd": 0.006053592378122864,
+    "name": "Hifi Finance"
+  },
+  { "symbol": "ERN", "price_usd": 4.63390233431924, "name": "Ethernity Chain" },
+  { "symbol": "TORN", "price_usd": 54.808554546738236, "name": "Tornado Cash" },
+  { "symbol": "EUM", "price_usd": 2.156477538054662, "name": "Elitium" },
+  {
+    "symbol": "FARM",
+    "price_usd": 89.13847810232961,
+    "name": "Harvest Finance"
+  },
+  { "symbol": "FLM", "price_usd": 0.19152766124505316, "name": "Flamingo" },
+  { "symbol": "BTS", "price_usd": 0.019866314633790304, "name": "BitShares" },
+  { "symbol": "CUDOS", "price_usd": 0.020822652878729767, "name": "CUDOS" },
+  { "symbol": "CRE", "price_usd": 0.006730733429528746, "name": "Carry" },
+  { "symbol": "HDAO", "price_usd": 0.01739046076081627, "name": "HyperDAO" },
+  { "symbol": "LTO", "price_usd": 0.1956581136746468, "name": "LTO Network" },
+  { "symbol": "LINA", "price_usd": 0.0180270835452822, "name": "Linear" },
+  { "symbol": "COS", "price_usd": 0.014567946805888354, "name": "Contentos" },
+  { "symbol": "CLT", "price_usd": 29.90914879379508, "name": "CoinLoan" },
+  { "symbol": "ALEPH", "price_usd": 0.30062498598743564, "name": "Aleph.im" },
+  {
+    "symbol": "NSBT",
+    "price_usd": 22.947656283539274,
+    "name": "Neutrino Token"
+  },
+  {
+    "symbol": "vBUSD",
+    "price_usd": 0.021409272050590254,
+    "name": "Venus BUSD"
+  },
+  { "symbol": "DDX", "price_usd": 2.208576509980721, "name": "DerivaDAO" },
+  { "symbol": "ADX", "price_usd": 0.4025246199633382, "name": "Ambire AdEx" },
+  { "symbol": "DMCH", "price_usd": 0.26405187010277065, "name": "Darma Cash" },
+  {
+    "symbol": "AIOZ",
+    "price_usd": 0.13006034197200686,
+    "name": "AIOZ Network"
+  },
+  {
+    "symbol": "-DZD",
+    "price_usd": 0.0070100132360966915,
+    "name": "Algeria Dinar"
+  },
+  {
+    "symbol": "-NAD",
+    "price_usd": 0.06531678641410843,
+    "name": "Namibia Dollar"
+  },
+  { "symbol": "-GHS", "price_usd": 0.14116545636109898, "name": "Ghana Cedi" },
+  { "symbol": "-EGP", "price_usd": 0.06371383618586549, "name": "Egypt Pound" },
+  { "symbol": "-BGN", "price_usd": 0.5583971767438743, "name": "Bulgaria Lev" },
+  { "symbol": "-PAB", "price_usd": 1.0, "name": "Panama Balboa" },
+  {
+    "symbol": "-PHP",
+    "price_usd": 0.019249278522604014,
+    "name": "Philippines Piso"
+  },
+  {
+    "symbol": "-BOB",
+    "price_usd": 0.1447592588383851,
+    "name": "Bolivia Boliviano"
+  },
+  {
+    "symbol": "-DKK",
+    "price_usd": 0.1469658892171127,
+    "name": "Denmark Krone"
+  },
+  {
+    "symbol": "-BWP",
+    "price_usd": 0.08514116404999489,
+    "name": "Botswana Pula"
+  },
+  {
+    "symbol": "-LBP",
+    "price_usd": 0.0006581372773152129,
+    "name": "Lebanon Pound"
+  },
+  {
+    "symbol": "-TZS",
+    "price_usd": 0.0004301687681127937,
+    "name": "Tanzania Shilling"
+  },
+  {
+    "symbol": "-VND",
+    "price_usd": 4.377999086298019e-5,
+    "name": "Viet Nam Dong"
+  },
+  {
+    "symbol": "-AOA",
+    "price_usd": 0.002023304420313167,
+    "name": "Angola Kwanza"
+  },
+  {
+    "symbol": "-KHR",
+    "price_usd": 0.000244825840346231,
+    "name": "Cambodia Riel"
+  },
+  { "symbol": "-QAR", "price_usd": 0.274649821477616, "name": "Qatar Riyal" },
+  {
+    "symbol": "-KYD",
+    "price_usd": 1.1941724385001193,
+    "name": "Cayman Islands Dollar"
+  },
+  { "symbol": "-LYD", "price_usd": 0.21523771068005215, "name": "Libya Dinar" },
+  {
+    "symbol": "-UAH",
+    "price_usd": 0.03311886988347821,
+    "name": "Ukraine Hryvnia"
+  },
+  { "symbol": "-JOD", "price_usd": 1.4104372355430184, "name": "Jordan Dinar" },
+  {
+    "symbol": "-AWG",
+    "price_usd": 0.5554784057769755,
+    "name": "Aruba Guilder"
+  },
+  {
+    "symbol": "-SAR",
+    "price_usd": 0.26651549907559097,
+    "name": "Saudi Arabia Riyal"
+  },
+  { "symbol": "-XAG", "price_usd": 25.704462937377503, "name": "XAG Peso" },
+  {
+    "symbol": "-HKD",
+    "price_usd": 0.12797084312310283,
+    "name": "Hong Kong Dollar"
+  },
+  {
+    "symbol": "-CHF",
+    "price_usd": 1.0912789352609684,
+    "name": "Switzerland Franc"
+  },
+  {
+    "symbol": "-GIP",
+    "price_usd": 1.3227495730825751,
+    "name": "Gibraltar Pound"
+  },
+  {
+    "symbol": "-MRU",
+    "price_usd": 0.027453671928620454,
+    "name": "Mauritania Ouguiya"
+  },
+  {
+    "symbol": "-XPF",
+    "price_usd": 0.009159548079621974,
+    "name": "Comptoirs Francais du Pacifique CFP Franc"
+  },
+  { "symbol": "-XPD", "price_usd": 3007.880647295915, "name": "XPD Peso" },
+  {
+    "symbol": "-BYN",
+    "price_usd": 0.3213148718660554,
+    "name": "Belarus Ruble"
+  },
+  { "symbol": "-HRK", "price_usd": 0.1445483586533875, "name": "Croatia Kuna" },
+  {
+    "symbol": "-DJF",
+    "price_usd": 0.005590411054147866,
+    "name": "Djibouti Franc"
+  },
+  {
+    "symbol": "-THB",
+    "price_usd": 0.030585781954572164,
+    "name": "Thailand Baht"
+  },
+  {
+    "symbol": "-XAF",
+    "price_usd": 0.0016663056198964756,
+    "name": "Communaute Financiere Africaine"
+  },
+  {
+    "symbol": "-BND",
+    "price_usd": 0.7319149309914007,
+    "name": "Brunei Darussalam Dollar"
+  },
+  {
+    "symbol": "-ETB",
+    "price_usd": 0.019409008877797115,
+    "name": "Ethiopia Birr"
+  },
+  {
+    "symbol": "-UYU",
+    "price_usd": 0.023288204596565273,
+    "name": "Uruguay Peso"
+  },
+  {
+    "symbol": "-NIO",
+    "price_usd": 0.027834519218385544,
+    "name": "Nicaragua Cordoba"
+  },
+  { "symbol": "-LAK", "price_usd": 8.681163408808864e-5, "name": "Laos Kip" },
+  {
+    "symbol": "-SYP",
+    "price_usd": 0.0003980891719745223,
+    "name": "Syria Pound"
+  },
+  {
+    "symbol": "-MAD",
+    "price_usd": 0.10268483887105824,
+    "name": "Morocco Dirham"
+  },
+  {
+    "symbol": "-MZN",
+    "price_usd": 0.015661706880787676,
+    "name": "Mozambique Metical"
+  },
+  { "symbol": "-YER", "price_usd": 0.003996004123748384, "name": "Yemen Rial" },
+  {
+    "symbol": "-ZAR",
+    "price_usd": 0.06485681560818181,
+    "name": "South Africa Rand"
+  },
+  {
+    "symbol": "-NPR",
+    "price_usd": 0.008164727358851785,
+    "name": "Nepal Rupee"
+  },
+  { "symbol": "-ZWL", "price_usd": 0.003105590062111801, "name": "ZWL Peso" },
+  {
+    "symbol": "-NGN",
+    "price_usd": 0.0023909716908951796,
+    "name": "Nigeria Naira"
+  },
+  {
+    "symbol": "-CRC",
+    "price_usd": 0.0015467190574645479,
+    "name": "Costa Rica Colon"
+  },
+  {
+    "symbol": "-AED",
+    "price_usd": 0.2722495984318423,
+    "name": "United Arab Emirates Dirham"
+  },
+  {
+    "symbol": "-GBP",
+    "price_usd": 1.3227495730825751,
+    "name": "United Kingdom Pound"
+  },
+  {
+    "symbol": "-MWK",
+    "price_usd": 0.001238378026553173,
+    "name": "Malawi Kwacha"
+  },
+  {
+    "symbol": "-TTD",
+    "price_usd": 0.1466345321977173,
+    "name": "Trinidad and Tobago Dollar"
+  },
+  {
+    "symbol": "-LKR",
+    "price_usd": 0.004939059561768901,
+    "name": "Sri Lanka Rupee"
+  },
+  {
+    "symbol": "-PKR",
+    "price_usd": 0.005584070799227504,
+    "name": "Pakistan Rupee"
+  },
+  {
+    "symbol": "-HUF",
+    "price_usd": 0.0028201187269984063,
+    "name": "Hungary Forint"
+  },
+  { "symbol": "-BMD", "price_usd": 1.0, "name": "Bermuda Dollar" },
+  {
+    "symbol": "-LSL",
+    "price_usd": 0.06484052408261357,
+    "name": "Lesotho Loti"
+  },
+  {
+    "symbol": "-MNT",
+    "price_usd": 0.00034817419066461976,
+    "name": "Mongolia Tughrik"
+  },
+  {
+    "symbol": "-AMD",
+    "price_usd": 0.001977785247125493,
+    "name": "Armenia Dram"
+  },
+  {
+    "symbol": "-UGX",
+    "price_usd": 0.00027799829135077776,
+    "name": "Uganda Shilling"
+  },
+  {
+    "symbol": "-XDR",
+    "price_usd": 1.3937223955858025,
+    "name": "International Monetary Fund IMF Special Drawing Rights"
+  },
+  { "symbol": "-IRR", "price_usd": 2.3626698168930892e-5, "name": "Iran Rial" },
+  {
+    "symbol": "-JMD",
+    "price_usd": 0.006446778110787534,
+    "name": "Jamaica Dollar"
+  },
+  {
+    "symbol": "-GEL",
+    "price_usd": 0.31496062992125984,
+    "name": "Georgia Lari"
+  },
+  {
+    "symbol": "-SHP",
+    "price_usd": 1.3227495730825751,
+    "name": "Saint Helena Pound"
+  },
+  {
+    "symbol": "-AFN",
+    "price_usd": 0.01108494018316866,
+    "name": "Afghanistan Afghani"
+  },
+  {
+    "symbol": "-MMK",
+    "price_usd": 0.0005596967775096471,
+    "name": "Myanmar Burma Kyat"
+  },
+  {
+    "symbol": "-KPW",
+    "price_usd": 0.0011111111111111111,
+    "name": "Korea North Won"
+  },
+  { "symbol": "-TRY", "price_usd": 0.07048954992422374, "name": "Turkey Lira" },
+  {
+    "symbol": "-BDT",
+    "price_usd": 0.011552859600777536,
+    "name": "Bangladesh Taka"
+  },
+  {
+    "symbol": "-CNY",
+    "price_usd": 0.15828545198410812,
+    "name": "China Yuan Renminbi"
+  },
+  {
+    "symbol": "-HTG",
+    "price_usd": 0.009511251953730041,
+    "name": "Haiti Gourde"
+  },
+  {
+    "symbol": "-SLL",
+    "price_usd": 8.701213413733763e-5,
+    "name": "Sierra Leone Leone"
+  },
+  {
+    "symbol": "-MGA",
+    "price_usd": 0.000248867625178865,
+    "name": "Madagascar Ariary"
+  },
+  {
+    "symbol": "-ANG",
+    "price_usd": 0.5522015447286013,
+    "name": "Netherlands Antilles Guilder"
+  },
+  {
+    "symbol": "-LRD",
+    "price_usd": 0.0064808820718996315,
+    "name": "Liberia Dollar"
+  },
+  {
+    "symbol": "-XCD",
+    "price_usd": 0.37002090618119926,
+    "name": "East Caribbean Dollar"
+  },
+  {
+    "symbol": "-NOK",
+    "price_usd": 0.11168816663874462,
+    "name": "Norway Krone"
+  },
+  {
+    "symbol": "-MOP",
+    "price_usd": 0.12364141270205327,
+    "name": "Macau Pataca"
+  },
+  { "symbol": "-SSP", "price_usd": 0.0076769537847382165, "name": "SSP Peso" },
+  {
+    "symbol": "-INR",
+    "price_usd": 0.013086812680598013,
+    "name": "India Rupee"
+  },
+  { "symbol": "-MXN", "price_usd": 0.04773668444858162, "name": "Mexico Peso" },
+  {
+    "symbol": "-CZK",
+    "price_usd": 0.042475199792721026,
+    "name": "Czech Republic Koruna"
+  },
+  {
+    "symbol": "-TJS",
+    "price_usd": 0.08818979855686213,
+    "name": "Tajikistan Somoni"
+  },
+  { "symbol": "-BTC", "price_usd": 38994.12015461013, "name": "BTC Peso" },
+  {
+    "symbol": "-BTN",
+    "price_usd": 0.013063535103900435,
+    "name": "Bhutan Ngultrum"
+  },
+  {
+    "symbol": "-COP",
+    "price_usd": 0.0002647254140275694,
+    "name": "Colombia Peso"
+  },
+  {
+    "symbol": "-MYR",
+    "price_usd": 0.23934897079942558,
+    "name": "Malaysia Ringgit"
+  },
+  {
+    "symbol": "-TMT",
+    "price_usd": 0.2849002849002849,
+    "name": "Turkmenistan Manat"
+  },
+  {
+    "symbol": "-MUR",
+    "price_usd": 0.02259529668053852,
+    "name": "Mauritius Rupee"
+  },
+  {
+    "symbol": "-IDR",
+    "price_usd": 6.952555759497191e-5,
+    "name": "Indonesia Rupiah"
+  },
+  {
+    "symbol": "-HNL",
+    "price_usd": 0.04041700650632971,
+    "name": "Honduras Lempira"
+  },
+  { "symbol": "-FJD", "price_usd": 0.4740909306404968, "name": "Fiji Dollar" },
+  {
+    "symbol": "-ISK",
+    "price_usd": 0.00758021945372057,
+    "name": "Iceland Krona"
+  },
+  { "symbol": "-PEN", "price_usd": 0.2667814182473688, "name": "Peru Sol" },
+  {
+    "symbol": "-BZD",
+    "price_usd": 0.4937440164397008,
+    "name": "Belize Dollar"
+  },
+  {
+    "symbol": "-ILS",
+    "price_usd": 0.30468529817264994,
+    "name": "Israel Shekel"
+  },
+  {
+    "symbol": "-DOP",
+    "price_usd": 0.01815101656674139,
+    "name": "Dominican Republic Peso"
+  },
+  {
+    "symbol": "-GGP",
+    "price_usd": 1.3227495730825751,
+    "name": "Guernsey Pound"
+  },
+  {
+    "symbol": "-MDL",
+    "price_usd": 0.054161624896409126,
+    "name": "Moldova Leu"
+  },
+  { "symbol": "-XPT", "price_usd": 1127.777151234916, "name": "XPT Peso" },
+  { "symbol": "-BSD", "price_usd": 1.0, "name": "Bahamas Dollar" },
+  {
+    "symbol": "-SEK",
+    "price_usd": 0.10202259800545821,
+    "name": "Sweden Krona"
+  },
+  { "symbol": "-JEP", "price_usd": 1.3227495730825751, "name": "Jersey Pound" },
+  {
+    "symbol": "-AUD",
+    "price_usd": 0.7371000126781202,
+    "name": "Australia Dollar"
+  },
+  {
+    "symbol": "-SRD",
+    "price_usd": 0.048850785276373314,
+    "name": "Suriname Dollar"
+  },
+  { "symbol": "-CUP", "price_usd": 0.038834951456310676, "name": "Cuba Peso" },
+  { "symbol": "-CLF", "price_usd": 34.18569670449884, "name": "CLF Peso" },
+  { "symbol": "-BBD", "price_usd": 0.5, "name": "Barbados Dollar" },
+  {
+    "symbol": "-KMF",
+    "price_usd": 0.00224744311374811,
+    "name": "Comorian Franc"
+  },
+  {
+    "symbol": "-KRW",
+    "price_usd": 0.000821743328471352,
+    "name": "Korea South Won"
+  },
+  {
+    "symbol": "-GMD",
+    "price_usd": 0.018779342723004695,
+    "name": "Gambia Dalasi"
+  },
+  {
+    "symbol": "-IMP",
+    "price_usd": 1.3227495730825751,
+    "name": "Isle of Man Pound"
+  },
+  { "symbol": "-CUC", "price_usd": 1.0, "name": "Cuba Convertible Peso" },
+  {
+    "symbol": "-CLP",
+    "price_usd": 0.0012389117399276477,
+    "name": "Chile Peso"
+  },
+  {
+    "symbol": "-ZMW",
+    "price_usd": 0.05533625490313803,
+    "name": "Zambia Kwacha"
+  },
+  {
+    "symbol": "-EUR",
+    "price_usd": 1.0930251876724246,
+    "name": "Euro Member Countries"
+  },
+  {
+    "symbol": "-ALL",
+    "price_usd": 0.008860399436198608,
+    "name": "Albania Lek"
+  },
+  {
+    "symbol": "-RWF",
+    "price_usd": 0.0009668397751065326,
+    "name": "Rwanda Franc"
+  },
+  {
+    "symbol": "-KZT",
+    "price_usd": 0.0019502071853308724,
+    "name": "Kazakhstan Tenge"
+  },
+  {
+    "symbol": "-RUB",
+    "price_usd": 0.009578544061302681,
+    "name": "Russia Ruble"
+  },
+  { "symbol": "-CDF", "price_usd": 0.0004973255925858108, "name": "Congo" },
+  { "symbol": "-RON", "price_usd": 0.22087244616234125, "name": "Romania Leu" },
+  { "symbol": "-OMR", "price_usd": 2.5962899017304273, "name": "Oman Rial" },
+  { "symbol": "-BRL", "price_usd": 0.19751853513933748, "name": "Brazil Real" },
+  {
+    "symbol": "-SBD",
+    "price_usd": 0.12409927197162099,
+    "name": "Solomon Islands Dollar"
+  },
+  { "symbol": "-PLN", "price_usd": 0.2226873914398967, "name": "Poland Zloty" },
+  {
+    "symbol": "-PYG",
+    "price_usd": 0.00014291265421525877,
+    "name": "Paraguay Guarani"
+  },
+  {
+    "symbol": "-KES",
+    "price_usd": 0.008729812309035356,
+    "name": "Kenya Shilling"
+  },
+  {
+    "symbol": "-MKD",
+    "price_usd": 0.017727988760738774,
+    "name": "Macedonia Denar"
+  },
+  {
+    "symbol": "-AZN",
+    "price_usd": 0.5882352941176471,
+    "name": "Azerbaijan Manat"
+  },
+  { "symbol": "-TOP", "price_usd": 0.4399251423377798, "name": "Tonga Paanga" },
+  {
+    "symbol": "-MVR",
+    "price_usd": 0.06472491909385114,
+    "name": "Maldives Maldive Islands Rufiyaa"
+  },
+  {
+    "symbol": "-VUV",
+    "price_usd": 0.008774376875122726,
+    "name": "Vanuatu Vatu"
+  },
+  {
+    "symbol": "-GNF",
+    "price_usd": 0.0001109062566327556,
+    "name": "Guinea Franc"
+  },
+  { "symbol": "-WST", "price_usd": 0.38185253466075453, "name": "Samoa Tala" },
+  {
+    "symbol": "-IQD",
+    "price_usd": 0.0006818840223697509,
+    "name": "Iraq Dinar"
+  },
+  {
+    "symbol": "-ERN",
+    "price_usd": 0.06666662222225185,
+    "name": "Eritrea Nakfa"
+  },
+  {
+    "symbol": "-BAM",
+    "price_usd": 0.5584891750835639,
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  },
+  {
+    "symbol": "-SCR",
+    "price_usd": 0.06941913056565276,
+    "name": "Seychelles Rupee"
+  },
+  { "symbol": "-CVE", "price_usd": 0.01, "name": "Cape Verde Escudo" },
+  { "symbol": "-KWD", "price_usd": 3.2945564044529223, "name": "Kuwait Dinar" },
+  {
+    "symbol": "-BIF",
+    "price_usd": 0.0004977345950852891,
+    "name": "Burundi Franc"
+  },
+  {
+    "symbol": "-PGK",
+    "price_usd": 0.2824476575062301,
+    "name": "Papua New Guinea Kina"
+  },
+  {
+    "symbol": "-SOS",
+    "price_usd": 0.001720444279547889,
+    "name": "Somalia Shilling"
+  },
+  {
+    "symbol": "-TWD",
+    "price_usd": 0.03554039039199664,
+    "name": "Taiwan New Dollar"
+  },
+  {
+    "symbol": "-CAD",
+    "price_usd": 0.7854503183037415,
+    "name": "Canada Dollar"
+  },
+  {
+    "symbol": "-SGD",
+    "price_usd": 0.735023888276369,
+    "name": "Singapore Dollar"
+  },
+  {
+    "symbol": "-UZS",
+    "price_usd": 9.13026326465875e-5,
+    "name": "Uzbekistan Som"
+  },
+  { "symbol": "-STD", "price_usd": 4.676789311239784e-5, "name": "STD Peso" },
+  {
+    "symbol": "-STN",
+    "price_usd": 0.044306601683650866,
+    "name": "Sao Tome and Principe Dobra"
+  },
+  {
+    "symbol": "-SVC",
+    "price_usd": 0.11373489941740433,
+    "name": "El Salvador Colon"
+  },
+  {
+    "symbol": "-XOF",
+    "price_usd": 0.0016663056198964756,
+    "name": "Communaute Financiere Africaine BCEAO Franc"
+  },
+  {
+    "symbol": "-TND",
+    "price_usd": 0.3392705682782019,
+    "name": "Tunisia Dinar"
+  },
+  {
+    "symbol": "-GYD",
+    "price_usd": 0.0047568265324595925,
+    "name": "Guyana Dollar"
+  },
+  {
+    "symbol": "-NZD",
+    "price_usd": 0.6860992854275942,
+    "name": "New Zealand Dollar"
+  },
+  {
+    "symbol": "-FKP",
+    "price_usd": 1.3227495730825751,
+    "name": "Falkland Islands Malvinas Pound"
+  },
+  { "symbol": "-USD", "price_usd": 1.0, "name": "United States Dollar" },
+  { "symbol": "-CNH", "price_usd": 0.15807777426493835, "name": "CLH Peso" },
+  {
+    "symbol": "-KGS",
+    "price_usd": 0.010447956009424516,
+    "name": "Kyrgyzstan Som"
+  },
+  {
+    "symbol": "*ARS",
+    "price_usd": 0.00924824314593048,
+    "name": "Argentina Peso"
+  },
+  {
+    "symbol": "-SZL",
+    "price_usd": 0.06484014149415677,
+    "name": "Swaziland Lilangeni"
+  },
+  {
+    "symbol": "-GTQ",
+    "price_usd": 0.12908262527210618,
+    "name": "Guatemala Quetzal"
+  },
+  {
+    "symbol": "-RSD",
+    "price_usd": 0.00928944341333687,
+    "name": "Serbia Dinar"
+  },
+  { "symbol": "-BHD", "price_usd": 2.651879784985587, "name": "Bahrain Dinar" },
+  { "symbol": "-JPY", "price_usd": 0.008709663371510691, "name": "Japan Yen" },
+  {
+    "symbol": "-SDG",
+    "price_usd": 0.002242152466367713,
+    "name": "Sudan Pound"
+  },
+  { "symbol": "-XAU", "price_usd": 1970.676336118556, "name": "XAU Peso" }
+]

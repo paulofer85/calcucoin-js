@@ -1,0 +1,6 @@
+
+calcucoin-back/.env
+
+*.pem
+
+calcucoin-back/node_modules/
